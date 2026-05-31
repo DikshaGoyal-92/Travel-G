@@ -26,6 +26,17 @@ Travel-G is a responsive travel and tourism website developed using HTML, CSS, a
 - Book Your Trip
 - Contact Us
 
+## Live Demo
+
+[Netlify Live Site](https://travel-g-website.netlify.app/)
+
+[Vercel Live Site](https://travel-g-delta.vercel.app/)
+
+## GitHub Repository
+
+https://github.com/DikshaGoyal-92/Travel-G
+
+
 ## Author
 
 Diksha Goyal
